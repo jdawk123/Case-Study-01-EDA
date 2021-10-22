@@ -8,13 +8,16 @@ This is a project created by Jeremy Dawkins and George Adele. This is project fo
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="Description-About-This-Project">Description About This Project</a>
+      </ul>
+    <li>
       <a href="About-This-Project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Description About This Project</a>
+      <a href="#getting-started">Getting Started</a>
       <ul>
       </ul>
     </li>
