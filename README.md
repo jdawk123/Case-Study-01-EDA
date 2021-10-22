@@ -72,8 +72,8 @@ For example we were able to establish a relationship between Alcohol By Volume a
 
 <!-- LICENSE -->
 ## License
-https://github.com/jdawk123/Case-Study-01-EDA/blob/main/LICENSE
 Distributed under the MIT License. See 'License.txt' for more information.
+https://github.com/jdawk123/Case-Study-01-EDA/blob/main/LICENSE
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
