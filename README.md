@@ -1,7 +1,7 @@
 # Case-Study-01-EDA
 Explanatory Data Analysis Over Beer and Breweries in the US
 
-This is a project created by Jeremy Dawkins and George Adele. This is project for Southern Methodist Univeristy in Dallas, TX exploring Data Science course. 
+This is a project created by Jeremy Dawkins and George Adele. This is project for Southern Methodist Univeristy in Dallas, TX Doing Data Science course. 
 
 
 Description
