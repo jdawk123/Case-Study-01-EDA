@@ -9,18 +9,6 @@ This is a project created by Jeremy Dawkins and George Adele. This is project fo
   <ol>
     <li>
       <a href="Description-About-This-Project">Description About This Project</a>
-      </ul>
-    <li>
-      <a href="About-This-Project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
