@@ -7,8 +7,9 @@ This is a project created by Jeremy Dawkins and George Adele. This is project fo
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="Description-About-This-Project">Description About This Project</a>
+    <li><a href="#description-about-this-project">Description About This Project</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -28,8 +29,6 @@ Various questions are answered in this project which you can find the in the R-m
 A Powerpoint presentation is also given in this repository that was presented to executives. 
 
 
-
-<!-- About This Project -->
 <!-- Built With -->
 ## Built With
 - RStudio
