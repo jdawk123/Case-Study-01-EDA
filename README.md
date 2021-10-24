@@ -83,7 +83,7 @@ https://github.com/jdawk123/Case-Study-01-EDA/blob/main/LICENSE
 
 Jeremy Dawkins - [@linkedIn](https://www.linkedin.com/in/jeremydawkins/) - JeremyDawkins80@gmail.com
 
-Project Youtube Link: ()
+Project Youtube Link: [@youtube](https://youtu.be/8cvH0ex-XMw)
 
 
 
