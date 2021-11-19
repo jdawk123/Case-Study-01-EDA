@@ -26,7 +26,7 @@ I have also provided the questions that were answered via word document for this
 A R-markdown file is also available as well as the Knit HTML file that answers various questions regarding this project. 
 Various questions are answered in this project which you can find the in the R-markdown file. 
 
-A Powerpoint presentation is also given in this repository that was presented to executives. 
+A Powerpoint presentation is also given in this repository that was presented. 
 
 
 <!-- Built With -->
